@@ -1,9 +1,3 @@
-# bobola15
+# Rain Escaro very cool website!
 **Hello!**
-```
-{
-"firstName": "Rain",
-"lastName": "Escaro",
-"age": 1
-}
-```
+
