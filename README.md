@@ -2,6 +2,6 @@
 **Hello!**
 ---
 Here are some things about me! 🤣
--im very cool
--im smart 😮
--i sell graham balls!
+- im very cool
+- im smart 😮
+- i sell graham balls!
